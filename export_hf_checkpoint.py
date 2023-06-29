@@ -38,6 +38,7 @@ assert torch.allclose(first_weight_old, first_weight)
 # merge weights - new merging method from peft
 lora_model = lora_model.merge_and_unload()
 
+
 lora_model.train(False)
 
 # did we do anything?
