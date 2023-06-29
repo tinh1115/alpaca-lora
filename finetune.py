@@ -259,10 +259,10 @@ def train(
         ),
     )
     model.config.use_cache = False
-    state_dict = model.state_dict()
-    print("Model's state_dict:")
-    for param_tensor in state_dict:
-        print(state_dict[param_tensor])
+    # state_dict = model.state_dict()
+    # print("Model's state_dict:")
+    # for param_tensor in state_dict:
+    #     print(state_dict[param_tensor])
     old_state_dict = model.state_dict
     model.state_dict = (
         lambda self, *_, **__: get_peft_model_state_dict(
