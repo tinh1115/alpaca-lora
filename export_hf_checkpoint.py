@@ -4,12 +4,42 @@ import torch
 import transformers
 from peft import PeftModel
 from transformers import LlamaForCausalLM, LlamaTokenizer  # noqa: F402
+from transformers import AutoModel
 
+BASE_MODEL = 'decapoda-research/llama-7b-hf'
 # BASE_MODEL = os.environ.get("BASE_MODEL", None)
 # assert (
 #     BASE_MODEL
 # ), "Please specify a value for BASE_MODEL environment variable, e.g. `export BASE_MODEL=huggyllama/llama-7b`"  # noqa: E501
-BASE_MODEL = 'decapoda-research/llama-7b-hf'
+### temporary test ###
+base_model = AutoModel.from_pretrained('decapoda-research/llama-7b-hf')
+
+# Print the state_dict
+print("Base Model State Dict:")
+for param_tensor in base_model.state_dict():
+    print(param_tensor, "\t", base_model.state_dict()[param_tensor].size())
+
+# Load the finetuned model
+lora_model = PeftModel.from_pretrained(
+    base_model='decapoda-research/llama-7b-hf',
+    model_path='/content/gdrive/MyDrive/alpaca-lora/lora-alpaca',
+    device_map={"": "cpu"},
+    torch_dtype=torch.float16,
+)
+
+# Print the state_dict
+print("Finetuned Model State Dict:")
+for param_tensor in lora_model.state_dict():
+    print(param_tensor, "\t", lora_model.state_dict()[param_tensor].size())
+
+# Load the finetuned weights directly
+weights = torch.load('/content/gdrive/MyDrive/alpaca-lora/lora-alpaca')
+
+# Print the weights
+print("Directly Loaded Weights:")
+for param_tensor in weights:
+    print(param_tensor, "\t", weights[param_tensor].size())
+### end test
 tokenizer = LlamaTokenizer.from_pretrained(BASE_MODEL)
 
 base_model = LlamaForCausalLM.from_pretrained(
@@ -32,8 +62,10 @@ lora_model = PeftModel.from_pretrained(
 lora_weight = lora_model.base_model.model.model.layers[
     0
 ].self_attn.q_proj.weight
-
+print(first_weight_old)
+print(first_weight)
 assert torch.allclose(first_weight_old, first_weight)
+
 
 # merge weights - new merging method from peft
 lora_model = lora_model.merge_and_unload()
