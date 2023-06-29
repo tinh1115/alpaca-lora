@@ -259,7 +259,10 @@ def train(
         ),
     )
     model.config.use_cache = False
-
+    state_dict = model.state_dict()
+    print("Model's state_dict:")
+    for param_tensor in state_dict:
+        print(state_dict[param_tensor])
     old_state_dict = model.state_dict
     model.state_dict = (
         lambda self, *_, **__: get_peft_model_state_dict(
@@ -268,15 +271,16 @@ def train(
     ).__get__(model, type(model))
 
     if torch.__version__ >= "2" and sys.platform != "win32":
+        print("Compiling model for quantization")
         model = torch.compile(model)
 
     trainer.train(resume_from_checkpoint=resume_from_checkpoint)
     print("Finished training")
-    for param_tensor in model.state_dict():
-        print(param_tensor, "\t", model.state_dict()[param_tensor].size())
-
+    print("Saving model to", output_dir)
     model.save_pretrained(output_dir)
-
+     # // prints weights and their sizes
+    for name, param in model.named_parameters():
+        print(name, param.size())
     print(
         "\n If there's a warning about missing keys above, please disregard :)"
     )
