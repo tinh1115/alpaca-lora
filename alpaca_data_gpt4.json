@@ -498,5 +498,1505 @@
     "instruction": "Classify the following statement as true or false.",
     "input": "The Supreme Court is the highest court in the US.",
     "output": "True."
+  },
+  {
+    "instruction": "Design a database to record employee salaries.",
+    "input": "",
+    "output": "The database should contain fields for employee name, position, salary, and date. It should also include a field for the employee's manager, so that the salaries can be properly allocated across departments. The database should also be able to generate reports on salary expenses for departments or individuals."
+  },
+  {
+    "instruction": "Identify the theme of the following book.",
+    "input": "The book is about a small town in the Midwest and how people respond to a series of tragedies and unexpected events that shake their lives.",
+    "output": "The theme of the book is resilience in the face of unexpected tragedy, and how the people of a small town come together to overcome difficult times."
+  },
+  {
+    "instruction": "Assign each word in the sentence below to its part of speech.",
+    "input": "Kittens often scamper around excitedly.",
+    "output": "Kittens - Noun \noften - Adverb \nscamper - Verb \naround - Preposition \nexcitedly - Adverb"
+  },
+  {
+    "instruction": "Generate a password of 8 characters.",
+    "input": "",
+    "output": "e9gKyd2D"
+  },
+  {
+    "instruction": "Create a web page about robotics.",
+    "input": "",
+    "output": "The web page should include an introduction to robotics, covering what it is and how it can be applied in various industries. It should also include a section on the history of robotics, an overview of major advances in the field, and current trends. Information about the different types of robots and their applications should be included, as well as links to resources for further research."
+  },
+  {
+    "instruction": "What is the most commonly shared type of content on social media?",
+    "input": "",
+    "output": "The most commonly shared type of content on social media is images."
+  },
+  {
+    "instruction": "What is the main idea of this text?",
+    "input": "The robotics industry has become one of the fastest growing sectors in today’s economy. Robotics technology is being applied in various industries and applications, such as manufacturing, healthcare, and defense.",
+    "output": "The main idea of this text is that robotics technology is being used in many different industries and applications and is a rapidly growing sector of today's economy."
+  },
+  {
+    "instruction": "Generate a list of present continuous verbs.",
+    "input": "",
+    "output": "Running, eating, sleeping, calling, texting, working, reading, watching, writing, listening, playing, cooking, shopping, dancing, studying, walking, driving, flying, jumping, laughing."
+  },
+  {
+    "instruction": "Think of a phrase or idiom containing the word \"sleep\".",
+    "input": "",
+    "output": "Sleep like a log."
+  },
+  {
+    "instruction": "Make a prediction about what will happen in the next paragraph.",
+    "input": "Mary had been living in the small town for many years and had never seen anything like what was coming.",
+    "output": "It appears that something extraordinary and unprecedented will happen in the next paragraph."
+  },
+  {
+    "instruction": "Generate a headline for the following article.",
+    "input": "This article discusses the future of renewable energy sources in the US.",
+    "output": "Renewable Energy Sources are the Future of the US"
+  },
+  {
+    "instruction": "What type of punctuation should be used at the end of the following sentence?",
+    "input": "Let's look at the bird",
+    "output": "A question mark (?) should be used at the end of the sentence."
+  },
+  {
+    "instruction": "Identify the incorrect word and suggest a better version.",
+    "input": "The waitress served a humonguous burger.",
+    "output": "The incorrect word is \"humonguous\" and it should be replaced with \"huge\"."
+  },
+  {
+    "instruction": "Rewrite this sentence using the third person point of view.",
+    "input": "I went to the store.",
+    "output": "He/She went to the store."
+  },
+  {
+    "instruction": "Change this sentence into the future tense.",
+    "input": "She walks to school.",
+    "output": "She will walk to school."
+  },
+  {
+    "instruction": "Summarize the following article in your own words.",
+    "input": "The internet has become a critical part of modern life and it has revolutionized the way we communicate and conduct business. It has enabled the spread of ideas and experiences quickly, globally, and cheaply.",
+    "output": "The internet has drastically changed our lives by allowing us to easily and quickly communicate and conduct business across the globe. It has enabled the rapid spread of ideas and experiences worldwide."
+  },
+  {
+    "instruction": "What is the meaning of the following idiom?",
+    "input": "It’s raining cats and dogs",
+    "output": "The idiom \"it’s raining cats and dogs\" means that it is raining heavily."
+  },
+  {
+    "instruction": "Generate a sentence using the following words in the correct order.",
+    "input": "house on fire",
+    "output": "The house was on fire."
+  },
+  {
+    "instruction": "Is the sentence grammatically correct?",
+    "input": "The boy was playing with her toys.",
+    "output": "Yes, the sentence is grammatically correct."
+  },
+  {
+    "instruction": "Classify the relationship between John and Mary.",
+    "input": "John and Mary are siblings.",
+    "output": "John and Mary are brother and sister."
+  },
+  {
+    "instruction": "Identify the language used in the given sentence.",
+    "input": "Il est incroyable.",
+    "output": "The sentence is in French."
+  },
+  {
+    "instruction": "Generate a summary of the given article.",
+    "input": "Between 1989 and 2019, the size of the U.S. economy, measured in terms of the gross domestic product (GDP), more than doubled. The growth was faster than in the prior two decades, driven in part by the dramatic expansion of the information technology sector in the 1990s and early 2000s, gains in worker productivity and strong consumer demand, and government investments in research and development.",
+    "output": "The U.S. economy more than doubled in size between 1989 and 2019, largely due to the rise of the information technology sector, improvements in worker productivity and consumer demand, and government investments. This growth was faster than in the prior two decades."
+  },
+  {
+    "instruction": "Conver the temperature from Fahrenheit to Celsius.",
+    "input": "94F",
+    "output": "34.4C"
+  },
+  {
+    "instruction": "Construct a phrase using the given words",
+    "input": "Pandemic, challenge, action",
+    "output": "Our action in the face of the pandemic is the ultimate challenge."
+  },
+  {
+    "instruction": "Find the synonyms of the following word: 'Tenacious'.",
+    "input": "",
+    "output": "Persistent, dogged, determined, resolute, steadfast, unwavering, unyielding, persistent, persistent."
+  },
+  {
+    "instruction": "Suggest a good restaurant.",
+    "input": "Los Angeles, CA",
+    "output": "In Los Angeles, CA, I suggest Rossoblu Italian restaurant."
+  },
+  {
+    "instruction": "Calculate the area of the triangle.",
+    "input": "Base: 5cm; Height: 6cm",
+    "output": "The area of the triangle is 15 cm²."
+  },
+  {
+    "instruction": "Rewrite the sentence with more descriptive words.",
+    "input": "The game is fun.",
+    "output": "The game is exhilarating and enjoyable."
+  },
+  {
+    "instruction": "Generate a creative birthday wish for a friend.",
+    "input": "",
+    "output": "Happy birthday! May this special day bring you joy, laughter, and all the blessings you deserve. Have a wonderful year ahead!"
+  },
+  {
+    "instruction": "Make the second sentence shorter.",
+    "input": "Winter is usually the coldest season of the year. Snow is a common element during winter.",
+    "output": "Winter is the coldest season, often accompanied by snow."
+  },
+  {
+    "instruction": "Find the solution to the quadratic equation.",
+    "input": "3x² + 7x - 4 = 0",
+    "output": "The solution of the quadratic equation is x = -4 and x = 1/3."
+  },
+  {
+    "instruction": "Find the average of these three numbers.",
+    "input": "2, 5, 10",
+    "output": "The average of 2, 5, 10 is 5.67."
+  },
+  {
+    "instruction": "Rewrite the sentence in a different tense.",
+    "input": "He asked her to join him for lunch.",
+    "output": "He had asked her to join him for lunch."
+  },
+  {
+    "instruction": "Classify the following data with three labels.",
+    "input": "fjsklfjdsklfjsklfjsklfjs",
+    "output": "Label1: Character data\nLabel2: Alphabetical data\nLabel3: Non-alphabetical data"
+  },
+  {
+    "instruction": "Compose a five word sentence describing your day.",
+    "input": "",
+    "output": "Today was an amazing day."
+  },
+  {
+    "instruction": "Describe the following painting in one sentence.",
+    "input": "Attached Painting",
+    "output": "The painting depicts a sprawling landscape on a beautiful day with rolling hills and a river winding its way through the terrain."
+  },
+  {
+    "instruction": "Search the web and find the title of the longest novel.",
+    "input": "",
+    "output": "The title of the longest novel is \"Gordale\", written by Carolyn Redfearn."
+  },
+  {
+    "instruction": "Change the following sentence from the singular form to the plural form.",
+    "input": "The cat is drinking.",
+    "output": "The cats are drinking."
+  },
+  {
+    "instruction": "Compile a list of 5 US states located in the Mid West.",
+    "input": "",
+    "output": "The 5 US states located in the Midwest are Illinois, Indiana, Michigan, Ohio, and Wisconsin."
+  },
+  {
+    "instruction": "Analyze the following sentence and find the direct object.",
+    "input": "She wrote a book.",
+    "output": "The direct object of the sentence is \"book\"."
+  },
+  {
+    "instruction": "During the last member meeting, create a list of 5 ideas to improve the club.",
+    "input": "",
+    "output": "At the last member meeting, the following 5 ideas to improve the club were suggested:  1. Increase the frequency of meetings,  2. Create a mentorship program,  3. Develop a website to advertise the club,  4. Create a budget to finance activities,  5. Offer incentives to encourage participation."
+  },
+  {
+    "instruction": "Edit the following sentence to correct the grammar and syntax errors",
+    "input": "You was late to the party",
+    "output": "You were late to the party."
+  },
+  {
+    "instruction": "Create a questions that can be answered using the following sentence.",
+    "input": "\"It was a beautiful day\"",
+    "output": "What type of day was it?"
+  },
+  {
+    "instruction": "Write a simple definition of the word \"economics\".",
+    "input": "",
+    "output": "Economics is the study of how society uses its limited resources to produce and distribute goods and services."
+  },
+  {
+    "instruction": "Find the cutoff score for successful completion of the exam",
+    "input": "The exam had 100 multiple-choice questions with 4 options each",
+    "output": "The cutoff score for successful completion of the exam is 75."
+  },
+  {
+    "instruction": "Generate a topic sentence to introduce the following text.",
+    "input": "Amidst increasing violence in the region, many civilians are fleeing their homes in search of safety.",
+    "output": "Due to the escalating tensions and violence, countless civilians are being forced from their homes in fear for their lives."
+  },
+  {
+    "instruction": "Write a function to calculate the factorial of a given number.",
+    "input": "",
+    "output": "def factorial(n):\n    if n == 0:\n        return 1\n    return n * factorial(n-1)"
+  },
+  {
+    "instruction": "Write a function to convert a given string to uppercase.",
+    "input": "",
+    "output": "def toUpperCase(str):\n    return str.upper()"
+  },
+  {
+    "instruction": "Extract the positive integers from an array?",
+    "input": "arr = [5,-2,8,-7,3,-1,0,5]",
+    "output": "[5, 8, 3, 5]"
+  },
+  {
+    "instruction": "Calculate the square root of a given number.",
+    "input": "",
+    "output": "def sqrt(n):\n    low = 0\n    high = n\n    \n    while low <= high:\n        mid = (low + high) // 2\n        if mid * mid == n:\n            return mid\n        elif mid * mid < n:\n            low = mid + 1\n        else:\n            high = mid - 1\n            \n    return low - 1"
+  },
+  {
+    "instruction": "Reverse a linked list.",
+    "input": "",
+    "output": "def reverse(head): \n    prev = None\n    cur = head \n\n    while cur:\n        next = cur.next\n        cur.next = prev \n        prev = cur \n        cur = next\n    head = prev\n    \n    return head"
+  },
+  {
+    "instruction": "Compute the longest increasing subsequence of a given array?",
+    "input": "arr = [7, 10, 8, 11, 9, 5]",
+    "output": "[7, 8, 9, 11]"
+  },
+  {
+    "instruction": "Design an algorithm to find the maximum profit of a stock buy and sell?",
+    "input": "",
+    "output": "def maxProfit(prices):\n    min_price = float('inf')\n    max_profit = 0\n\n    for price in prices:\n        min_price = min(min_price, price) \n        profit = price - min_price\n        max_profit = max(max_profit, profit)\n\n    return max_profit"
+  },
+  {
+    "instruction": "Given two strings, check whether one string is a rotation of another?",
+    "input": "s1 = ‘waterbottle’\ns2 = ‘erbottlewat’",
+    "output": "def isRotation(s1, s2):\n    if len(s1) != len(s2):\n        return False\n\n    s3 = s1 + s1 \n    return s3.find(s2) != -1"
+  },
+  {
+    "instruction": "Given an array of integers, return the first repeating element.",
+    "input": "arr = [3, 6, 7, 1, 4, 6, 7]",
+    "output": "6"
+  },
+  {
+    "instruction": "Find the two non-repeating elements in an array of repeating elements?",
+    "input": "arr = [2, 3, 7, 9, 11, 2, 3, 11]",
+    "output": "7, 9"
+  },
+  {
+    "instruction": "Given a binary tree, check if it is a binary search tree?",
+    "input": "",
+    "output": "def isBST(root):\nif root is None : \n\treturn True\n\nif root.left is not None and root.left.val > root.val: \n\treturn False\n\nif root.right is not None and root.right.val < root.val: \n\treturn False\n\nreturn isBST(root.left) and isBST(root.right)"
+  },
+  {
+    "instruction": "Find the maximum profit that can be earned from a given sequence of transactions?",
+    "input": "arr = [100, 180, 260, 310, 40, 535, 695]",
+    "output": "865"
+  },
+  {
+    "instruction": "Calculate the amount of money in a bank account with an initial $100 deposit and an interest rate of 6%, compounded annually",
+    "input": "",
+    "output": "At the end of year 1, the amount in the bank account would be $106. In year 2, the amount would be $112.36 and at the end of the 10th year, the amount would be $160.54. This illustrates the power of compound interest."
+  },
+  {
+    "instruction": "Give me a detailed overview of the framework of a web service.",
+    "input": "",
+    "output": "A web service should be composed of several components: a client application, a set of API (application programming interface) to interact with the client, a database to store data, a server to run the service, and a client-side application to process requests. The API should be designed with RESTful architecture and the server should be built with a language like Python or Ruby. The database should be tailored to the data that needs to be stored, and the client-side application should handle the response from the API. Additionally, for security purposes, certain requests should be encrypted or secured using authentication mechanisms."
+  },
+  {
+    "instruction": "Create a timeline describing the history of the internet",
+    "input": "",
+    "output": "1968: ARPANET, the first internet network, is created.\n 1973: TCP/IP is created, allowing computers to communicate with each other.\n 1983: DNS is created to simplify the communication process. \n 1989: The World Wide Web is created, giving birth to the public internet.\n 1995: JavaScript is developed, introducing dynamic content to the web.\n 2001: Wikipedia is launched, providing an online encyclopedia.\n 2004: Facebook is launched, growing quickly to 1 billion users.\n 2007: Apple introduces the iPhone, making mobile devices commonplace.\n 2009: Cloud computing begins to revolutionize data storage. \n 2011: HTML5 is released, encouraging richer web experiences.\n 2013: The Internet of Things (IoT) emerges, connecting dozens of durable devices. \n 2015: \"Voice first\" technology, such as Amazon's Alexa, launches.\n 2018: 5G networks begin rolling out, allowing for faster connection speeds.\n 2020: AI begins to be used to power home assistants like Alexa."
+  },
+  {
+    "instruction": "Paraphrase the following sentence",
+    "input": "The scientists conducted a rigorous experiment",
+    "output": "The scientists ran a thorough experiment."
+  },
+  {
+    "instruction": "Develop a web-based application that does the following",
+    "input": "Sorts images according to category",
+    "output": "This web-based application should use a database to store the images and associated categorization information. The application should allow users to upload images and assign tags to them. Additionally, there should be an interface which provides the ability to search and filter the images by tags. Lastly, the application should use computer vision techniques, like object detection and image classification, to sort the images into categories."
+  },
+  {
+    "instruction": "Describe the pros and cons of the following policy",
+    "input": "Providing free college education",
+    "output": "The pros of providing free college education include making education more accessible to individuals of all backgrounds, enhancing access to skilled professionals, providing equal opportunity for all, and boosting the economy. On the other hand, the drawbacks could include an increase in taxation and a greater burden on the government, an excessive influx of graduates in certain professions, a decrease in the quality of education, and an increased risk of overcrowding in certain universities."
+  },
+  {
+    "instruction": "Design a post for a social media account to promote the following product",
+    "input": "Fresh fruit smoothie",
+    "output": "Introducing our new and extra refreshing fruit smoothie! Made from only the freshest fruits, this smoothie is a delicious way to stay energized and get your daily dose of nutrients. Get yours today! #smoothie #fruitsmoothie #refreshing"
+  },
+  {
+    "instruction": "Summarize the following article",
+    "input": "https://www.nytimes.com/2010/07/05/business/global/05phone.html",
+    "output": "This article discusses mobile phones and their unprecedented influence on different aspects of the global economy. After analyzing data from several countries, the article found that mobile phones have enabled economic growth, improved access to financial services, and created a platform for innovation. Mobile phones have also helped reduce poverty and corruption, and have opened the door for new business models."
+  },
+  {
+    "instruction": "Create a job description for the following role",
+    "input": "Data Analytics Consultant",
+    "output": "We are looking for a data analytics consultant to support our operations. The consultant will develop strategies to understand, interpret, and act on data insights. The consultant should have experience in data visualization and dashboard development, machine learning, and communication of data insights to internal and external stakeholders. The ideal candidate will have excellent problem-solving skills, be detail-oriented, and be able to work confidently with stakeholders of varying levels."
+  },
+  {
+    "instruction": "Identify the correct order for the following commands",
+    "input": "pack, prepare, travel",
+    "output": "The correct order is: prepare, pack, travel."
+  },
+  {
+    "instruction": "Create a survey question to measure customer satisfaction",
+    "input": "",
+    "output": "On a scale of 1-5, how satisfied are you with our services?"
+  },
+  {
+    "instruction": "Create a list of 10 different animals",
+    "input": "",
+    "output": "1. Tiger\n2. Elephant\n3. Chimpanzee\n4. Gorilla\n5. Wolf \n6. Fox\n7. Kangaroo\n8. Hedgehog\n9. Porcupine\n10. Beave."
+  },
+  {
+    "instruction": "Suggest a good idea for a family photoshoot.",
+    "input": "",
+    "output": "How about a photoshoot in a park or garden with a picnic theme? Have the family dress up in fun and whimsical clothes and poses, and use props like vintage furniture, outdoor accessories, and decorations. Another idea could be a photoshoot in a game hall or arcade with the family playing games dressed up in matching costumes."
+  },
+  {
+    "instruction": "Create a response for a customer's email about a refund issue.",
+    "input": "Dear [Company],\n\nI recently purchased a product from your store and I'm disappointed with the quality. I would like to request a refund.",
+    "output": "Dear [Customer],\n\nThank you for bringing this to our attention. We apologize for the issue with the product. We will process your refund request as soon as possible. Please let us know if we can help with anything else. Thank you for your understanding.  Kind regards, [Company]"
+  },
+  {
+    "instruction": "Summarize the given news article in one sentence.",
+    "input": "In the latest budget announcement, the Chancellor has promised to introduce a new employment allowance to help employees of small businesses.",
+    "output": "The government has announced an employment allowance to help employees of small businesses in their most recent budget announcement."
+  },
+  {
+    "instruction": "Provide five adjectives that describe a particular animal.",
+    "input": "Lion",
+    "output": "Regal, mighty, majestic, brave, intelligent."
+  },
+  {
+    "instruction": "Rearrange the words to create a complete sentence.",
+    "input": "Underwater creatures are fascinating",
+    "output": "Fascinating are underwater creatures."
+  },
+  {
+    "instruction": "Write a story that begins with the following sentence.",
+    "input": "She opened the door to find a tall figure cloaked in shadows.",
+    "output": "She opened the door with a trembling hand, expecting to find her friend. Instead, a tall figure cloaked in shadows stood in the doorway. Startled by the unexpected presence, she stepped back and her heart pounded. The figure made no sound and stood still, seemingly lost in thought. She wanted to speak, but before she could utter a word, the figure stepped forward, revealing a single rose in its hand. Taking the rose, she felt an overwhelming sense of something unknown, something of which she could not explain."
+  },
+  {
+    "instruction": "Convert the given sentence into active voice.",
+    "input": "One hundred and fifty books were sold.",
+    "output": "Someone sold one hundred and fifty books."
+  },
+  {
+    "instruction": "Explain why a given topic is important.",
+    "input": "Environmental protection",
+    "output": "Environmental protection is essential for maintaining the health of our planet for future generations. Human activities such as emissions, farming, and deforestation are contributing to climate change, air and water pollution, reduction in biodiversity, and other environmental threats. By placing a priority on environmental protection, we can limit the speed of environmental damage and conserve natural resources for our own and future generations' use."
+  },
+  {
+    "instruction": "Describe the sound of the given object.",
+    "input": "Wind chime",
+    "output": "A wind chime produces a peaceful and melodic sound, with a mix of high-pitched and low-pitched tones. The sound of the chime is like a gentle breeze, reflecting the calming atmosphere of a light summer day."
+  },
+  {
+    "instruction": "Rewrite the given sentence using a different but similar word.",
+    "input": "She partook in the event.",
+    "output": "She participated in the event."
+  },
+  {
+    "instruction": "Classify the given input as either a poem, story, or song.",
+    "input": "Once upon a midnight dreary, while I pondered, weak and weary.",
+    "output": "Poem"
+  },
+  {
+    "instruction": "Create a title for the following description.",
+    "input": "A story about a journey of self-discovery by a young girl.",
+    "output": "The Road to Finding Myself"
+  },
+  {
+    "instruction": "Rewrite the given sentence in a more formal tone.",
+    "input": "I had to go to the store real quick.",
+    "output": "I had to make a quick trip to the store."
+  },
+  {
+    "instruction": "Write a few sentences about a given historical figure.",
+    "input": "Amelia Earhart",
+    "output": "Amelia Earhart was an American aviation pioneer and a renowned aviation figure. She was the first female aviator to fly solo across the Atlantic Ocean. Despite tragic circumstances, she is remembered as an inspiring role model and a symbol of courage, adventure, and determination. Her groundbreaking achievements pushed the boundaries of gender roles and inspired many."
+  },
+  {
+    "instruction": "Generate a list of questions related to a given topic.",
+    "input": "Innovation",
+    "output": "1. What are the most current trends in the field of innovation? \n2. What aspects of innovation offer the most potential for success? \n3. What challenges have businesses recently faced related to innovation? \n4. What strategies can businesses use to drive innovation? \n5. How have technological advances helped shape new models of innovation? \n6. What unique approaches to innovation have proven successful? \n7. What principles guide successful innovation projects? \n8. What opportunities for innovation exist in emerging markets?\n9. In what ways does collaboration foster innovation? \n10. How can ideas be leveraged to promote innovation?"
+  },
+  {
+    "instruction": "Create a slogan for a given product.",
+    "input": "Healthy snack",
+    "output": "A bite of goodness - Healthy snacks for your whole family!"
+  },
+  {
+    "instruction": "Categorize the following text into one of the two sentiment classes: positive or negative.",
+    "input": "I didn't like the product very much because it was too slow and not user friendly.",
+    "output": "Negative."
+  },
+  {
+    "instruction": "Summarize the paragraph into a sentence.",
+    "input": "When buying furniture, it's important to take into account the overall look and feel of the space. That means that you should ask yourself if the pieces you are selecting are a good match for the existing furnishings as well as what you imagine the overall style to be.",
+    "output": "Think about the existing furnishings and desired style when selecting furniture."
+  },
+  {
+    "instruction": "Make the following sentence more concise.",
+    "input": "I have a really bad cold and it is making me feeling really miserable.",
+    "output": "I have a bad cold and feeling miserable."
+  },
+  {
+    "instruction": "Transform the following sentence into a yes/no question.",
+    "input": "It is going to rain tomorrow.",
+    "output": "Is it going to rain tomorrow?"
+  },
+  {
+    "instruction": "Compose a tweet that addresses the issue of environmental degradation.",
+    "input": "",
+    "output": "We can't keep wasting resources and ignoring #EnvironmentalDegradation. Let's make our planet greener and healthier for future generations. #savetheenvironment #EnvironmentalProtection"
+  },
+  {
+    "instruction": "Replace the underlined words with appropriate synonyms.",
+    "input": "The robbers snitched on their partners.",
+    "output": "The robbers divulged on their partners."
+  },
+  {
+    "instruction": "Correct the grammatical errors in the sentence.",
+    "input": "She come to the store for supplies.",
+    "output": "She came to the store for supplies."
+  },
+  {
+    "instruction": "Identify the type of the relationship between the two words in the sentence.",
+    "input": "The car passed the truck.",
+    "output": "The relationship between the two words in the sentence is comparison."
+  },
+  {
+    "instruction": "Compose an informative sentence explaining the given term.",
+    "input": "Green bonds",
+    "output": "Green bonds are debt instruments issued to finance projects aimed at mitigating climate change and promoting sustainable development."
+  },
+  {
+    "instruction": "Rewrite the following sentence without changing the meaning.",
+    "input": "The sales report was not accurate.",
+    "output": "The sales report was inaccurate."
+  },
+  {
+    "instruction": "What's the output of this code?",
+    "input": "x = [1, 2, 3, 4]\ny = [i**2 for i in x]",
+    "output": "y = [1, 4, 9, 16]"
+  },
+  {
+    "instruction": "Write a short review for the novel \"The Catcher in the Rye\".",
+    "input": "",
+    "output": "I recently read “The Catcher in the Rye” and was impressed by J.D. Salinger's ability to capture the struggles of teenage life. This coming of age tale tells the story of Holden Caulfield's journey to adulthood, as he navigates the issues of identity, alienation, and despair. The novel manages to shed light on difficult topics through its humorous and vivid writing, making it an enjoyable and thought-provoking read."
+  },
+  {
+    "instruction": "Identify the following animal.",
+    "input": "It has thick fur, a long tail, and pointed ears.",
+    "output": "The animal is a fox."
+  },
+  {
+    "instruction": "Describe the impact of the coronavirus on the economy.",
+    "input": "",
+    "output": "The coronavirus has had a major impact on the economy, causing disruptions in industries such as tourism, travel, hospitality, retail, and more. These industries have seen sharp decreases in activity, resulting in surging unemployment levels, a weakened stock market, and decreased consumer spending. Business closures have been rampant, and some companies have even been forced to permanently close their doors. As a result, fiscal and monetary policies have been embraced by governments to help stem the economic downturn."
+  },
+  {
+    "instruction": "What geometric shape has 5 sides and 5 angles?",
+    "input": "",
+    "output": "The geometric shape is a pentagon."
+  },
+  {
+    "instruction": "Generate a pitch for a new and original product.",
+    "input": "",
+    "output": "Introducing the revolutionary new product that is taking the world by storm: the SmartBat! The SmartBat is a revolutionary device that combines the features of a smartphone, a voice-activated AI assistant, and a motion sensor into one convenient bat-shaped device. With its intuitive interface and powerful AI, the SmartBat is the perfect companion for anyone on the go who wants to stay connected and informed. Whether you’re at the office or home, the SmartBat has you covered with its innovative features. So don’t wait, get your SmartBat today and take your life to the next level!"
+  },
+  {
+    "instruction": "Compose a sonnet about the beauty of nature.",
+    "input": "",
+    "output": "The beauty of nature is forever grand,\nA sight to marvel at all over land.\nThe sky above, the earth below at hand,\nSo much to see, no eye can understand.\n\nThe trees that stretch to the heaven's demand,\nThe dance of flowers like some strange band,\nBehold the wind's gentle whisper grand,\nAs it rustles the leaves at nature's command.\n\nThe rivers that fold, rush and flow,\nTo the sea like some sweet understated show,\nThe sun, hidden in the mist, what a glorious glow,\nIt casts as its warmth in his embrace does stow.\n\nOh, the beauty of nature, forever grand,\nA vision to inspire, with joy that’s grand."
+  },
+  {
+    "instruction": "Rewrite the following sentence so that it is in active voice.",
+    "input": "The problem is being solved by her.",
+    "output": "She is solving the problem."
+  },
+  {
+    "instruction": "Write a short story about a day in the life of a software engineer.",
+    "input": "",
+    "output": "John was a software engineer and had been coding for the past 5 years. Every day he woke up early to tackle the day ahead. He would start off with a quick breakfast before diving into the world of coding, creating new projects and fixing existing bugs. After a few hours of coding, he would take a break and eat lunch at his desk, discussing new ideas with his colleagues and brainstorming solutions to any tricky problems they had encountered. Afternoon would roll in and John was focussed on his code, powering through the most complex issues while keeping a sharp eye out for potential improvements. His day would finish with a bit of light reading, studying new coding languages, to ensure he was up to date with the latest industry advancements. And with that, his day was complete."
+  },
+  {
+    "instruction": "What's the difference between a virus and a worm?",
+    "input": "",
+    "output": "The main difference between a virus and a worm is that a virus requires user interaction to spread, while a worm can spread itself from one computer to another on its own. Viruses can modify files and damage data, whereas worms are generally designed to replicate themselves and spread to other computers. Viruses can also spread to other computers through infected media and files, whereas worms usually exploit security vulnerabilities to spread."
+  },
+  {
+    "instruction": "Explain the concept of the blockchain.",
+    "input": "",
+    "output": "The blockchain is a distributed ledger technology that is used to store and record transactions. It is secured using a network of computers distributed around the world, which makes it both secure and decentralized as there is no central authority controlling the data stored in it. Each \"block\" within the blockchain contains a unique record of a transaction or event that is recorded to the blockchain in a cryptographically secure manner. The blockchain is immutable, meaning that once a transaction is recorded, it cannot be altered or deleted, providing a permanent and secure record of information."
+  },
+  {
+    "instruction": "What is the contraction of \"they are\"?",
+    "input": "",
+    "output": "The contraction of \"they are\" is \"they're\"."
+  },
+  {
+    "instruction": "Create a list of items for a picnic.",
+    "input": "",
+    "output": "A picnic list should include items such as: sandwiches, chips, fruit, vegetables, crackers, spreads, cheese, drinks, and snacks. Optional items may include cutlery and plates, a blanket to sit on, sunblock, hats and sunglasses, insect repellent, playing cards or board games, a Frisbee or ball to play with, and ice packs if necessary."
+  },
+  {
+    "instruction": "Find the lowest common multiple of two numbers.",
+    "input": "36 and 87",
+    "output": "30932"
+  },
+  {
+    "instruction": "Classify the given article as either positive or negative sentiment.",
+    "input": "The new car is a disappointment. The breaks are terrible and cost way too much for the features offered.",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Convert the following hexadecimal number to octal.",
+    "input": "DB",
+    "output": "333"
+  },
+  {
+    "instruction": "Gather some recent data related to the increasing rates of unemployment.",
+    "input": "",
+    "output": "Recent data on the increasing rates of unemployment across the US show that, since the start of the coronavirus outbreak, the unemployment rate has increased from 3.5% to 14.7%. This is the highest the unemployment rate has been since the Great Depression. The US Bureau of Labor Statistics also reports that since April 2020, 43 million Americans have filed for unemployment. \n\nThe US Federal Reserve reported in June 2020 that 40% of households making less than $40,000 a year had lost a job or experienced a reduction in income due to COVID-19, while 23% of households making over $100,000 had experienced job losses or income reductions."
+  },
+  {
+    "instruction": "Indicate how the following characters in the novel reflect the theme of \"the corrupting influence of power\".",
+    "input": "Gregoire in Zola's Germinal",
+    "output": "Gregoire serves as an example of the corrupting influence of power in the novel Germinal. As the only one of the miners who rises to the upper echelons of the mining company, Gregoire turns his back on his former comrades in favor of promoting his own interests. He changes from being a loyal and kind miner to a callous overseer who takes joy in crushing the miners' spirit and punishing them for the smallest of offenses. His transformation is a stark illustration of how those corrupted by power have the capacity to be so much more heartless and ruthless than before, and his journey encapsulates the theme of \"the corrupting influence of power\"."
+  },
+  {
+    "instruction": "Rewrite the following sentence to avoid any logical fallacies.",
+    "input": "This medicine will cure all your health issues; you should trust me because I am a doctor.",
+    "output": "Given my training as a doctor, this medicine is likely to provide a beneficial effect to most health issues."
+  },
+  {
+    "instruction": "Name two different ways to reduce poverty in a community.",
+    "input": "",
+    "output": "Two different ways to reduce poverty in a community are to develop economic development initiatives to create job and business opportunities, and to increase access to healthcare and education to give people the tools they need to succeed."
+  },
+  {
+    "instruction": "Generate a sentence that follows the structure of: \"All ____ is based on/with _____\"",
+    "input": "",
+    "output": "All success is based on hard work and dedication."
+  },
+  {
+    "instruction": "Describe the principle of the Law of Supply.",
+    "input": "",
+    "output": "The Law of Supply states that as the price of a product or service increases, the quantity supplied to the market also increases, as producers are incentivized by the increased profit potential. Likewise, as the price of a product or service decreases, the quantity supplied to the market also decreases due to decreased profit potential."
+  },
+  {
+    "instruction": "Find the area of the given trapezoid.",
+    "input": "Bases: 13 cm and 16 cm; Height: 12 cm",
+    "output": "168 cm^2"
+  },
+  {
+    "instruction": "Describe the themes present in the given poem.",
+    "input": "Poem:\n\nWe step out into the night\nWhere the stars cry like only loneliness can\nAnd make love in the darkness",
+    "output": "The poem \"We Step Out into the Night\" touches on themes of love, loneliness, and the beauty of the night sky. The imagery of stars crying like only loneliness can hints at a melancholic sentiment, implying that love is both necessary and desirable, but can also be difficult or painful. This can symbolize the transitional nature of life and the difficulties of finding one's place in the world."
+  },
+  {
+    "instruction": "Generate a haiku poem.",
+    "input": "",
+    "output": "Dew on a leaf glistening\nA gentle summer breeze rustles\nNearby cicada song"
+  },
+  {
+    "instruction": "Design a logo for a web development company.",
+    "input": "",
+    "output": "Design a logo that is modern and professional. Use a combination of blue, green and orange for the color scheme. The logo should include an abstract circle in the center, with two triangles on either side to represent the website being under construction. Include the company name inside the circle or around the edges. The font should be bold and legible. The logo should be simple, yet eye-catching."
+  },
+  {
+    "instruction": "Compare cats and dogs.",
+    "input": "",
+    "output": "Cats and dogs are both beloved pets, but they have important differences. Dogs are typically more outgoing and energetic, while cats are considered more independent. Dogs tend to be more social and active, enjoying walks and playing with other animals. Cats, on the other hand, tend to be more solitary, preferring to relax and snuggle up in a warm spot. Dogs typically require more care and attention, while cats are more self-sufficient. Despite these differences, cats and dogs remain popular and loving pets."
+  },
+  {
+    "instruction": "Classify this text as Fiction or Non-fiction.",
+    "input": "The universe is estimated to be around 13.8 billion years old.",
+    "output": "Non-fiction."
+  },
+  {
+    "instruction": "Name three fruits that are rich in Vitamin C.",
+    "input": "",
+    "output": "Oranges, grapefruits, and lemons."
+  },
+  {
+    "instruction": "Translate this sentence from French to English.",
+    "input": "J'aime faire de la randonnée.",
+    "output": "I love to go hiking."
+  },
+  {
+    "instruction": "Generate the third term in the sequence 2, 5, 9, 14.",
+    "input": "",
+    "output": "18"
+  },
+  {
+    "instruction": "What is the purpose of Financial Accounting?",
+    "input": "",
+    "output": "The purpose of financial accounting is to provide relevant and accurate information to help entities make informed decisions and effectively manage their finances. It also provides a reliable record of their financial transactions, which is essential to conducting business."
+  },
+  {
+    "instruction": "Describe a unique way to cook a steak.",
+    "input": "",
+    "output": "One unique way to cook a steak is sous-vide. This method cooks the steak slowly in a sealed bag of its own juices at a low temperature. The steak is vacuum-sealed, then cooked in a water bath at a precise temperature for an extended period, ensuring that it is fully cooked through but still tender and juicy."
+  },
+  {
+    "instruction": "Summarize the advantages of renewable energy.",
+    "input": "",
+    "output": "Renewable energy sources such as solar and wind are clean, sustainable, and abundant. They reduce air and water pollution, help preserve valuable ecosystems, and create jobs that can't be outsourced. Renewable energy sources also have the potential to drastically reduce global warming emissions and combat climate change, making them essential for the future of humanity and the planet."
+  },
+  {
+    "instruction": "Identify the incorrect word in this sentence.",
+    "input": "The singer joyfully belted their solo.",
+    "output": "their"
+  },
+  {
+    "instruction": "Suggest a powerful quote.",
+    "input": "",
+    "output": "\"With the power of the will, anything is possible.\" – Unknown"
+  },
+  {
+    "instruction": "Sort the following list in alphabetical order.",
+    "input": "Camouflage, Furniture, Plaster",
+    "output": "Furniture, Camouflage, Plaster"
+  },
+  {
+    "instruction": "What is a trade deficit?",
+    "input": "",
+    "output": "A trade deficit is a situation in which a country imports more goods than it exports. It occurs when the value of the country's exports falls below the value of its imports. It is typically evaluated by looking at the total value of goods and services a country imports and exports over a certain period of time."
+  },
+  {
+    "instruction": "Name one benefit of meditation.",
+    "input": "",
+    "output": "One benefit of meditation is reduced stress levels. Through regular practice, meditation helps to train the mind to focus, which can lead to improved concentration and awareness. This can help to alleviate feelings of stress, anxiety, and depression, as well as improve quality of sleep."
+  },
+  {
+    "instruction": "Name the three main mountain ranges in the United States.",
+    "input": "",
+    "output": "The three main mountain ranges in the United States are the Rocky Mountains, the Appalachian Mountains, and the Sierra Nevada Mountains."
+  },
+  {
+    "instruction": "Assign this task to the design team.",
+    "input": "Design a communication tool for internal team members.",
+    "output": "The design team has been assigned the task of designing a communication tool for internal team members."
+  },
+  {
+    "instruction": "Provide the lyrics for the song titled “Yesterday”",
+    "input": "",
+    "output": "Yesterday, all my troubles seemed so far away \nNow it looks as though they're here to stay \nOh, I believe in yesterday \nSuddenly, I'm not half the man I used to be \nThere's a shadow hanging over me \nOh, yesterday came suddenly"
+  },
+  {
+    "instruction": "Provide a brief summary of the novel \"Never Let Me Go\".",
+    "input": "",
+    "output": "Never Let Me Go is a dystopian novel by Kazuo Ishiguro that tells the story of three friends who attended a school together that, unbeknownst to them, was preparing them for a grim fate. As they grow up, they begin to understand their true purpose and are forced to confront the moral and ethical dilemmas presented by their impending destiny."
+  },
+  {
+    "instruction": "Edit the following sentence so that it has correct grammar.",
+    "input": "I were just going to the store",
+    "output": "I was just going to the store."
+  },
+  {
+    "instruction": "Name something you can do with paper.",
+    "input": "",
+    "output": "Write, draw, paint, fold, cut, origami, make a paper airplane, collage, create a pop-up card, shred, laminate."
+  },
+  {
+    "instruction": "Construct a sentence using the phrase \"every day\".",
+    "input": "",
+    "output": "I do something new every day."
+  },
+  {
+    "instruction": "What type of fruit would be a good addition to a fruit salad?",
+    "input": "",
+    "output": "Strawberries, blueberries, raspberries, grapes, kiwi, oranges, apples, pears, mangoes, papayas, and pineapples."
+  },
+  {
+    "instruction": "Describe in a few words what makes a good leader.",
+    "input": "",
+    "output": "A good leader is motivated, confident, persuasive, inspiring, organized, and reliable."
+  },
+  {
+    "instruction": "Find a rhyming word for the word \"river\".",
+    "input": "",
+    "output": "Giver."
+  },
+  {
+    "instruction": "What is the scientific name for a beaver?",
+    "input": "",
+    "output": "The scientific name for a beaver is Castor canadensis."
+  },
+  {
+    "instruction": "Convert the following number from base 10 to hexadecimal: 278",
+    "input": "",
+    "output": "The number 278 in hexadecimal is 112."
+  },
+  {
+    "instruction": "Give a definition of \"algae\".",
+    "input": "",
+    "output": "Algae are a large and diverse group of simple, typically autotrophic organisms, ranging from unicellular to multicellular forms. They range in size from microscopic to large seaweeds and are classified in the same kingdom as plants, although unlike plants they lack true roots, stems, and leaves. Algae typically live in moist environments, including marine, freshwater, and terrestrial systems."
+  },
+  {
+    "instruction": "Name a natural process which occurs in food preservation.",
+    "input": "",
+    "output": "A natural process which occurs in food preservation is fermentation."
+  },
+  {
+    "instruction": "Supply a phrase to complete this proverb: \"It's better to be safe than ____.\"",
+    "input": "",
+    "output": "It's better to be safe than sorry."
+  },
+  {
+    "instruction": "Give an example of a convergent boundary.",
+    "input": "",
+    "output": "An example of a convergent boundary is the boundary between the North American Plate and the Pacific Plate which is converging to create the Sierra Nevada Mountains."
+  },
+  {
+    "instruction": "Follow the law of supply and demand, describe what would happen to the price of a good if the demand increased.",
+    "input": "",
+    "output": "If the demand for a good increases, the price of the good will rise in order to balance the demand with the available supply. This is because when demand exceeds supply, prices must increase in order to ration resources and keep supplies from running out."
+  },
+  {
+    "instruction": "Provide an example of an endangered species of animal.",
+    "input": "",
+    "output": "The snow leopard (Panthera uncia) is an endangered species of animal that is native to the mountains of Central and South Asia."
+  },
+  {
+    "instruction": "Research about a famous scientist and provide a short biography about him/her.",
+    "input": "",
+    "output": "Marie Curie was a Polish-French scientist known for her contributions to the study of radioactivity. She won two Nobel Prizes in Physics and Chemistry, making her the only woman to win two. Her research into the nature of radioactivity revolutionized our understanding of the atom and ushered in a new era of nuclear science and discovery. She established the first research laboratories for the study of radiation and gave her name to the element polonium, which is named after her native country of Poland."
+  },
+  {
+    "instruction": "Explain why the election of Abraham Lincoln was considered a revolutionary moment.",
+    "input": "",
+    "output": "The election of Abraham Lincoln in 1860 was a revolutionary moment in history because it challenged the status quo of the United States at the time. It marked the first time a president was elected into office who was not from the Democratic or Whig party. Furthermore, Lincoln signaled a commitment to combating slavery, which had been a contentious issue throughout the country, by standing on an antislavery platform. This momentous event foreshadowed the Civil War and the emancipation of slaves."
+  },
+  {
+    "instruction": "Research Einstein's theory of relativity and provide a brief explanation.",
+    "input": "",
+    "output": "Albert Einstein's theory of relativity is a theory of gravitation which states that the laws of physics are the same in all uniformly moving frames of reference, regardless of the motion's speed or direction. This means that space and time are bound together, forming a four-dimensional continuum known as \"space-time\". Additionally, this includes the notion of time dilation, where the passage of time speeds up or slows down depending on the speed of the observer."
+  },
+  {
+    "instruction": "Analyze the historical significance of the Stonewall Uprising.",
+    "input": "",
+    "output": "The Stonewall Uprising of 1969 is considered to be a pivotal moment in the growth of the LGBTQ+ rights movement. On June 28th, a series of spontaneous demonstrations broke out at The Stonewall Inn, a gay club in New York City, in response to a police raid that had occurred earlier that evening. This event served to unite and inspire the LGBTQ+ community to fight for equal rights and visibility, and is widely considered to be the start of the modern fight for LGBTQ+ liberation."
+  },
+  {
+    "instruction": "Create a sentence that employs a figure of speech.",
+    "input": "",
+    "output": "He was a bundle of nerves, like a butterfly in a snowstorm."
+  },
+  {
+    "instruction": "Generate a sentence in Spanish that describes the natural beauty of Barcelona.",
+    "input": "",
+    "output": "La naturaleza en Barcelona es espectacular, con su costa y su antiguo barrio gótico."
+  },
+  {
+    "instruction": "Describe the painting \"The Great Wave off Kanagawa\" by Katsushika Hokusai.",
+    "input": "",
+    "output": "The Great Wave off Kanagawa, created by Japanese artist Katsushika Hokusai in the early 1830s, is a woodblock print depiction of a powerful wave cresting in the foreground, as three boats and Mount Fuji can be seen in the background. The painting’s striking color palette and unique style of granular brushwork emphasizes the power and awe of a massive wave in motion."
+  },
+  {
+    "instruction": "Explain the concept of entropy in thermodynamics.",
+    "input": "",
+    "output": "In thermodynamics, entropy is a measure of the randomness of a system and its ability to generate useful work. It is closely related to the Second Law of Thermodynamics, which states that entropy of a system can never reduce over time unless energy is added to it. Entropy is essential to understanding how heat transfer and chemical processes occur in nature."
+  },
+  {
+    "instruction": "Provide an example of a non-renewable source of energy.",
+    "input": "",
+    "output": "A non-renewable source of energy is one that is not able to be replenished on a human timescale. Examples of non-renewable sources include fossil fuels such as oil, natural gas, and coal, as well as nuclear energy. These sources of energy are finite and will eventually become depleted over time."
+  },
+  {
+    "instruction": "Describe the major differences between the Catholic and Protestant faiths.",
+    "input": "",
+    "output": "The two major branches of Christianity, Catholicism and Protestantism, differ in beliefs on many important topics. Catholics recognize the Pope as the highest authority in the Church, while Protestantism is divided into a wide range of denominations which recognizes other forms of authority such as the bible or church councils. Catholics recognize seven sacraments while Protestants only recognize two, baptism and communion. Catholics also believe in transubstantiation, the belief that bread and wine become the literal body and blood of Jesus Christ during the sacrament of communion."
+  },
+  {
+    "instruction": "What is the process of photosynthesis and why is it important?",
+    "input": "",
+    "output": "Photosynthesis is the process by which plants convert sunlight into food energy. During this process, the plant takes in carbon dioxide from the air and combines it with water to create glucose and oxygen. This glucose is then used to produce energy for the plant and oxygen, which is released into the air. Photosynthesis is important as it provides a major source of food energy for living organisms, and is also responsible for the upkeep of the earth's atmosphere."
+  },
+  {
+    "instruction": "Write a 250 word essay about Coral Reef Conservation",
+    "input": "",
+    "output": "Coral reefs are among the most diverse and beautiful ecosystems and they are in danger of being destroyed by human activities, pollution and climate change. As a result, it is important to protect these valuable environments by implementing conservation measures. To gain a better understanding of the choices and strategies for protecting coral reefs, it is important to understand the ecology and structure of the environments, the threats, and the benefits that conservation provides. \n\nCoral reefs are complex and highly structured ecosystems where species interact and co-evolve. They are made of colonies of small invertebrate animals called corals that form intricate networks and canoes. In addition to being biologically and ecologically important, coral reefs provide important benefits such as food, coastal protection, and protection from extreme weather events. \n\nUnfortunately, human activities have caused significant damage to coral reefs all over the world. The most significant threats are overfishing, coastal development, water pollution and climate change. Global warming has caused coral bleaching which occurs when corals become stressed and expel the algae living inside them which can be fatal. It is also important to note that organic pollutants and sediment discharged into the water can smother and damage coral reefs.\n\nIn order to protect these valuable ecosystems, there are several key strategies that must be implemented. The most important is reducing pollution by controlling agricultural runoff and discharges, controlling coastal development to minimize sedimentation, reducing human activity on the reefs, establishing marine parks and protected areas, and increasing public awareness of the importance of coral reef conservation. Additionally, it is important to monitor changes in water temperature to prevent coral bleaching and to research and employ methods for coral reef restoration. \n\nCoral reef conservation is a pressing issue that requires urgent action from individuals, organizations, and governments. To mitigate the impacts of human activities, it is essential to implement conservation strategies now to protect these beautiful and valuable environments for generations to come."
+  },
+  {
+    "instruction": "Compose a haiku about cats",
+    "input": "",
+    "output": "Cats curl up purring,\nSoft companions that keep us lulled,\nIn peaceful solace."
+  },
+  {
+    "instruction": "Given a sequence of numbers, calculate the average",
+    "input": "1, 2, 3, 4, 5",
+    "output": "3.0"
+  },
+  {
+    "instruction": "What are the important contributions of NASA to space exploration?",
+    "input": "",
+    "output": "NASA has made significant contributions to space exploration over the years, such as developing the first reusable spacecraft, launching satellites that have enabled global communication, developing an extensive catalog of the universe, and robotic explorations of other planets and moons. Their research has unlocked numerous scientific discoveries, which have greatly advanced our understanding of the universe and our place in it. NASA programs have also enabled inspiring leaps for humanity, such as walking on the moon, launching robotic explorers to Mars, and enabling space travel for regular citizens."
+  },
+  {
+    "instruction": "Rewrite this sentence, \"She is taking a short break from practice\"",
+    "input": "She is taking a short break from practice",
+    "output": "She is taking a respite from her rehearsals."
+  },
+  {
+    "instruction": "Given a movie title \"The Iron Giant\", come up with an suitable tagline",
+    "input": "The Iron Giant",
+    "output": "When the Giant meets the boy, friendship will conquer fear."
+  },
+  {
+    "instruction": "Given the following data, What is the median score",
+    "input": "7, 9, 13, 2, 8",
+    "output": "8"
+  },
+  {
+    "instruction": "Describe the qualities of a good leader",
+    "input": "",
+    "output": "Good leaders possess qualities such as confidence, strong communication skills, integrity, empathy, openness to feedback, accountability, and strong decision-making abilities. They are able to motivate and inspire people to work towards a common goal, create a positive working environment, solve problems, delegate tasks effectively, and lead by example. Good leaders also possess emotional intelligence and bring out the best in people by recognizing their strengths and understanding their weaknesses."
+  },
+  {
+    "instruction": "Explain the difference between a personal computer and a server",
+    "input": "",
+    "output": "A personal computer (PC) is a desktop or laptop device that is typically used by an individual for personal activities. It connected to other devices within the same network and can access online services. A server is a computer that is designed to manage, store and link multiple computers and applications together. It is typically used to provide services to a large number of users, such as online applications and websites. Servers are generally more powerful than personal computers and have larger data storage and processing capabilities."
+  },
+  {
+    "instruction": "What is the main purpose of blockchain technology?",
+    "input": "",
+    "output": "The main purpose of blockchain technology is to serve as a distributed ledger that enables trustless and secure transactions between parties. The trustless nature of blockchain technology is achieved through cryptography, which prevents data tampering and unauthorized access. This technology allows data to be stored in a secure public database, increasing the efficiency, transparency and security of transactions."
+  },
+  {
+    "instruction": "Come up with a creative metaphor for smile",
+    "input": "",
+    "output": "A smile is like a ray of sunshine, brightening up a room and bringing joy to all."
+  },
+  {
+    "instruction": "Given a list of ingredients, come up with a dish",
+    "input": "Salt, Pepper, Onion, Garlic",
+    "output": "Sautéed Onion and Garlic with Salt and Pepper."
+  },
+  {
+    "instruction": "For the following passage, identify the theme or thesis statement.",
+    "input": "Corruption affects countries on many levels and erodes their competitive edge in a global economy. Poor compliance to regulations, ethical standards, and laws impairs public trust and results in conflict. Transnational financial crime drains a nation’s resources, weakens government tools to deliver long-term social goals, and destabilizes markets.",
+    "output": "Corruption impairs public trust and weakens the resources, tools and markets of a nation."
+  },
+  {
+    "instruction": "What critically acclaimed 2016 movie has a setting of a post-apocalyptic wasteland?",
+    "input": "",
+    "output": "Mad Max: Fury Road."
+  },
+  {
+    "instruction": "Given the following sentence, add appropriate punctuation to make it grammatically correct.",
+    "input": "The judge said guilty",
+    "output": "The judge said, \"Guilty.\""
+  },
+  {
+    "instruction": "Label the following news article as either \"Political\" or \"Entertainment\"",
+    "input": "Ansel Elgort and Gabrielle Union have both been cast in a new romantic summer movie to be released in 2022.",
+    "output": "Entertainment"
+  },
+  {
+    "instruction": "Reword the following sentence to the past tense.",
+    "input": "She is writing a novel inspired by her grandfather.",
+    "output": "She wrote a novel inspired by her grandfather."
+  },
+  {
+    "instruction": "Summarize the following passage in less than 50 words.",
+    "input": "The issue of immigration has become critical as the number of people wanting to enter the United States for a better life has been on the rise. Immigration has been a consistent source of controversy and debate, with wide variations in opinion regarding the benefits and drawbacks of immigration. Migration from one part of the world to another is not uncommon, yet the current state of the immigration debate in the United States has escalated and has become divisive.",
+    "output": "The number of people wanting to migrate to the United States has increased, leading to debate and controversy around the benefits and drawbacks of immigration. The US immigration debate has become highly divisive."
+  },
+  {
+    "instruction": "How many bytes are there in a kilobyte?",
+    "input": "",
+    "output": "There are 1,024 bytes in a kilobyte."
+  },
+  {
+    "instruction": "Generate a creative description of a sunset in the beach.",
+    "input": "",
+    "output": "The sun was setting over the horizon, painting the sky in a magnificent palette of vivid oranges, yellows and pinks. The orange hues were reflected in the shimmering ocean, creating a stunning and tranquil landscape. The salty breeze blew in from the sea and the waves crashed against the rocks, creating a soothing chorus of sound."
+  },
+  {
+    "instruction": "Standardize the following date to the ISO 8601 format.",
+    "input": "July 26th, 2021",
+    "output": ""
+  },
+  {
+    "instruction": "Rewrite the following sentence in a more concise way.",
+    "input": "Although he had been studying for several hours he had not finished the task.",
+    "output": "Despite studying for hours, he hadn't finished the task."
+  },
+  {
+    "instruction": "Classify the following fruit according to its color.",
+    "input": "Orange",
+    "output": "Orange is a yellow-orange color."
+  },
+  {
+    "instruction": "Compute the following expression.",
+    "input": "2^3 + 3^2",
+    "output": "11"
+  },
+  {
+    "instruction": "Suggest a suitable card game for a birthday party with 10 year old kids.",
+    "input": "",
+    "output": "Go Fish is a suitable card game for a birthday party with 10 year old kids. It is easy to learn and is entertaining for all."
+  },
+  {
+    "instruction": "Translate the following sentence from English to French.",
+    "input": "I am happy to meet you.",
+    "output": "Je suis heureux de te rencontrer."
+  },
+  {
+    "instruction": "Analyze the given poem and explain the theme.",
+    "input": "Roses are red, \nViolets are blue, \nSugar is sweet \nAnd so are you.",
+    "output": "The theme of this poem is to express love. The poet is saying that the recipient of these words is as sweet as sugar. The poem has a romantic feel to it and is depicting appreciation towards the other person."
+  },
+  {
+    "instruction": "Calculate the average age of the following five people.",
+    "input": "John, 32 \nAnne, 25 \nHugh, 27\nPeter, 40 \nRebecca, 28",
+    "output": "The average age of the five people is 30."
+  },
+  {
+    "instruction": "Explain the following quote.",
+    "input": "\"Education is the key to success.\"",
+    "output": "The quote is suggesting that education is the path or foundation for success. It emphasizes the importance of knowledge and learning for a successful life and career. Education does not only refer to formal education or qualifications, but also to gaining knowledge, life lessons and experience."
+  },
+  {
+    "instruction": "Determine the longest word in the following sentence.",
+    "input": "It is a wonderful sunny day.",
+    "output": "The longest word is \"wonderful\"."
+  },
+  {
+    "instruction": "Rewrite the following equation in expanded form.",
+    "input": "(x + 3)(2x - 5)",
+    "output": "2x^2 - 5x + 3x + 15 = 2x^2 + 8x + 15."
+  },
+  {
+    "instruction": "Explain the meaning of the following phrase.",
+    "input": "\"out of the box\"",
+    "output": "The phrase \"out of the box\" refers to an approach or solution to a problem which is creative or innovative in nature. It is used to indicate that a particular solution is not the traditional or stereotypical approach, but is instead a creative one."
+  },
+  {
+    "instruction": "Write a review for the following movie.",
+    "input": "The Godfather",
+    "output": "The Godfather is widely considered an all-time classic, and for good reason. It is a gripping story of crime and family dynamics, featuring stellar performances from the entire cast. The story is expertly crafted and wonderfully acted, making it an unforgettable experience. It might be slow at times, but don't let that stop you from watching this brilliant masterpiece."
+  },
+  {
+    "instruction": "Identify the main character in the following story.",
+    "input": "Once upon a time, there lived a poor peasant boy who worked very hard on his farm.",
+    "output": "The main character in the story is the poor peasant boy."
+  },
+  {
+    "instruction": "Describe the solution in detail.",
+    "input": "We established a system for automatically generating data for our machine learning model.",
+    "output": "Our system for automatically generating data for our machine learning model utilizes various techniques to create data points, including web scraping and natural language processing. The data points are then stored in a database and used as input for our machine learning model. This system enables us to generate a much larger dataset than what could be accomplished manually, decreasing the amount of time and resources needed to train the model."
+  },
+  {
+    "instruction": "Name three diseases that can be caused by poor hygiene.",
+    "input": "",
+    "output": "Three diseases caused by poor hygiene are diarrhea, gastroenteritis, and cholera."
+  },
+  {
+    "instruction": "Generate a random password of 6 characters in length using only capital letters and numbers.",
+    "input": "",
+    "output": "X9KAE5"
+  },
+  {
+    "instruction": "Explain what is meant by the circle of fifths.",
+    "input": "",
+    "output": "The circle of fifths is a musical diagram which maps out all the different key signatures and their respective relationships to one another, by arranging them in a circle with the key of C in the center. It is based on the fact that when going in a clockwise direction, each successive key is a fifth higher than the previous one. This enables musicians to quickly work out the relationships between the different key signatures, which can be helpful in composition and arranging music."
+  },
+  {
+    "instruction": "Generate a story with the given keywords.",
+    "input": "princess, dragon, knight",
+    "output": "Once upon a time, there was a brave knight who lived in a distant kingdom. He was tasked with rescuing a beautiful princess from a ferocious dragon. The brave knight set off on the dangerous journey, never hesitating to face the dragon and free the princess. When he arrived, he saw the dragon guarding the princess carefully and knew there was no way to sneak past. He took a deep breath and boldly rode forward, ready to face the challenge before him. He fought valiantly and eventually defeated the dragon, freeing the princess from her captor. The knight and princess were married soon after and lived happily ever after."
+  },
+  {
+    "instruction": "Calculate the winning percentage for the team in the given statistics.",
+    "input": "Wins: 50\nLosses: 70",
+    "output": "The winning percentage for the team is 41.67% (50 wins / (50 wins + 70 losses))."
+  },
+  {
+    "instruction": "Translate the given phrase from French to English.",
+    "input": "Je suis fatigué",
+    "output": "I am tired."
+  },
+  {
+    "instruction": "Create a haiku poetry with the given theme.",
+    "input": "The beauty of night sky",
+    "output": "Stars glitter in the dark\nMysteries in the night\nAll is wondrous in sight."
+  },
+  {
+    "instruction": "Design a logo for the given company.",
+    "input": "Example Company",
+    "output": "<No output>"
+  },
+  {
+    "instruction": "Find the synonyms for the words below.",
+    "input": "Determined",
+    "output": "Resolute, persistent, staunch, decisive."
+  },
+  {
+    "instruction": "Draft a letter of appreciation for the given recipient.",
+    "input": "Mr. John Smith",
+    "output": "Dear Mr. Smith, \n\nI would like to express my heartfelt appreciation for all that you have done for us in the past. Your efforts have contributed significantly to our success and I could not have asked for a better partner. Your wisdom and guidance were invaluable and I am thankful for your dedication and hard work.\n\nThank you once again for your help and support.\n\nSincerely,\n[Name]"
+  },
+  {
+    "instruction": "Analyze the given film and explain why it should be included in the top 10 list.",
+    "input": "The film Parasite",
+    "output": "The film Parasite is an astonishingly honest and timely exploration of economic inequality and societal class division. Through its masterful use of cinematography and well-crafted characters, it provides an enthralling and poignant insight into how wealth can divide us and how it might bring us together. It is a potent reminder that we can never forget the inequalities around us, nor take for granted the privileges we have. This deep exploration of class division and moral complexities make Parasite a must-see and worthy inclusion in any top 10 list."
+  },
+  {
+    "instruction": "Explain the implications of artificial intelligence in health care.",
+    "input": "",
+    "output": "Artificial intelligence (AI) has the potential to revolutionize the healthcare industry by enabling faster, more accurate diagnostics and treatments, along with identification of new risks and progression of diseases. AI-assisted medical devices help improve accuracy and reduce errors in diagnosis and treatment, while automation systems can process large amounts of health data to generate new insights. AI can also help to improve patient care by providing personalized recommendations and insights into health trends. Additionally, AI can be used to improve communication and efficiency between patients, doctors and healthcare providers."
+  },
+  {
+    "instruction": "Write a definition of \"photoshop\".",
+    "input": "",
+    "output": "Photoshop is a photo editing software developed by Adobe that is used to improve images or create effects by manipulating and combining parts of the existing digital image. Photoshop enables users to adjust the tones, color, lighting, and texture of an image, as well as to create text, create 3D objects, add digital effects and apply filters."
+  },
+  {
+    "instruction": "List five factors that lead to global warming.",
+    "input": "",
+    "output": "1. Burning fossil fuels such as coal, petroleum, and natural gas. \n2. Deforestation and landfills, which increases the concentration of carbon dioxide in the atmosphere. \n3. Livestock production, which increases the amount of greenhouse gases.\n4. Intensive agriculture, which produces emissions such as methane.\n5. Industry processes, which produce carbon dioxide, methane and other greenhouse gases."
+  },
+  {
+    "instruction": "Name 5 invasive species.",
+    "input": "",
+    "output": "1. Zebra mussels \n2. Kudzu\n3. European green crab \n4. Brown tree snake \n5. Asian carp"
+  },
+  {
+    "instruction": "What is an AI algorithm?",
+    "input": "",
+    "output": "An AI algorithm is a set of instructions or rules which are used to enable a computer or AI system to solve a problem or achieve a desired goal. AI algorithms can be used to capture and analyze data, classify objects, develop predictive models, and automate capabilities."
+  },
+  {
+    "instruction": "Explain the term \"AI explainability\".",
+    "input": "",
+    "output": "AI explainability is the ability of AI systems to provide a clear and understandable explanation of how they make decisions. This explanation can include visualizations, narrative descriptions, and other outputs which the AI system uses to explain its decision-making process and decisions. AI explainability helps to make AI and machine learning models more transparent and trust-worthy."
+  },
+  {
+    "instruction": "Pick out the adverbs in the following sentence.",
+    "input": "John quickly ran to the store.",
+    "output": "Quickly"
+  },
+  {
+    "instruction": "Generate a poem about spring.",
+    "input": "",
+    "output": "The snow has melted away,\nThe flowers bloom so bright,\nBirds singing everywhere,\nThis is the beauty of springtime delight.\n\nThe sun shines down with its warming ray,\nThe grass is gleaming green,\nA pleasant breeze is blowing through,\nA pleasant feeling can be seen.\n\nThe trees rain down the petals of the past,\nA beautiful sign of the new season,\nA fresh start that’s meant to last,\nA beautiful feeling recalls the reason.\n\nA warm season of joy,\nA season that’s here to stay,\nA season to ease our sorrow,\nThe season known as spring."
+  },
+  {
+    "instruction": "Write a scientific explanation for why the sky is blue.",
+    "input": "",
+    "output": "The sky appears blue due to the scattering of light from molecules in the Earth's atmosphere. Sunlight enters the atmosphere and interacts with the molecules and particles, causing light particles to scatter in all directions. The blue light has the greatest ability to penetrate the atmosphere, so it reaches our eyes more often than other colors, making the sky appear blue."
+  },
+  {
+    "instruction": "List five characteristics of good communication.",
+    "input": "",
+    "output": "1. Being clear and concise. \n2. Being respectful and courteous.\n3. Using active listening. \n4. Having an open mind. \n5. Offering feedback."
+  },
+  {
+    "instruction": "Suggest five strategies for self-motivation.",
+    "input": "",
+    "output": "1. Set goals and create an action plan.\n2. Break tasks down into smaller, achievable goals. \n3. Celebrate successes and success motivates.\n4. Have a positive attitude and outlook. \n5. Surround yourself with inspiring and motivating people."
+  },
+  {
+    "instruction": "Name five characteristics of a typical resume.",
+    "input": "",
+    "output": "1. A clear, concise, and organized format.\n2. A professional summary that highlights the key qualifications and strengths. \n3. A detailed description of the previous work experience and education. \n4. Contact information such as name, phone number, email, and physical address. \n5. A list of relevant skills and achievements."
+  },
+  {
+    "instruction": "Describe the benefits of using a GPT model.",
+    "input": "",
+    "output": "Using a GPT model has numerous benefits. It can generate text quickly and accurately by using large datasets, which can be used for natural language processing tasks such as summarization, question-answering, and text generation. GPT models are also scaleable, meaning they are able to process complex tasks with minimal resources. They are fast and require no human effort to train, which makes them useful for quickly generating results in various tasks where manual work may be too expensive or slow. Additionally, GPT models are highly flexible, allowing developers to easily adjust the output according to their own preferences. In short, GPT models are an efficient and cost-effective way to generate text."
+  },
+  {
+    "instruction": "Compare two types of text processing techniques and explain differences between them.",
+    "input": "Rule-Based Text Processing and Deep Learning Based Text Processing",
+    "output": "Rule-based text processing is based on hand-crafted rules for understanding the text. It relies on human experts to define the rules, which can require significant time and effort. It is able to accurately parse and manipulate text, but it is limited in its accuracy and speed. Deep learning based text processing uses algorithms to learn from datasets and extract patterns from text. It is able to process text with high accuracy and at a much faster rate than rule-based text processing. Deep learning models are also more flexible and can be adapted to different tasks with little effort. Deep learning is thus better suited for more complex text processing tasks."
+  },
+  {
+    "instruction": "Summarize the article below in 5 sentences.",
+    "input": "The COVID-19 crisis has brought many changes to our everyday lives, including the way we work and interact. Working from home has become the norm for many people, but it has also brought its own unique challenges. It can be difficult to stay productive and motivated while working remotely, especially if you’re feeling burned out or isolated. So how do you make the most of it? Here are some tips to help you stay productive while working from home.",
+    "output": "Working from home during the COVID-19 pandemic has its own set of challenges. It can be hard to stay productive when feeling burnt out or isolated. To make the most of it, time management and focusing on goals can help stay motivated. Additionally, make sure to take breaks, have engaging conversations with colleagues and try to stay off social media when working. Finally, make sure to have a designated workspace so that you can remain organised and productive."
+  },
+  {
+    "instruction": "Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8), generate a sentence that reflects their order.",
+    "input": "",
+    "output": "The numbers 1, 2, 3, 4, 5, 6, 7, and 8 were counted in ascending order."
+  },
+  {
+    "instruction": "Explain why decision trees may be better than linear models for certain problems.",
+    "input": "",
+    "output": "Decision trees are better than linear models for certain problems because they are able to capture non-linear relationships between predictors and outcomes. They are also able to account for interactions between predictors, and can easily interpret and visualize the results. Decision trees are great for finding the most important predictors in a dataset, as they can quickly identify which factors significantly influence a model's outcome. Finally, they are more flexible than linear models and can be adapted to different situations by tweaking the parameters."
+  },
+  {
+    "instruction": "Suggest a sentence that follows \"He had never seen a creature so strange,\"",
+    "input": "",
+    "output": "He was mesmerized by its peculiar movements as it floated around the room."
+  },
+  {
+    "instruction": "Select the best prediction from the sentences below given the input \"My vacation is in ________.\"",
+    "input": "My vacation is in _______.",
+    "output": "Hawaii!"
+  },
+  {
+    "instruction": "Describe the effects of climate change.",
+    "input": "",
+    "output": "Climate change is having a profound effect on the environment and all life on Earth. It is causing higher temperatures across the globe, extreme weather changes such as flooding and drought, and an increase in sea levels. In addition to these physical effects, climate change also has an emotional impact. It causes anxiety and stress, due to the worry of the unknown and the potential destruction it could cause. Finally, it is disproportionately affecting low-income households, which don't have the resources to access clean energy and adapt to the changing environment."
+  },
+  {
+    "instruction": "Classify the given sentence as either negative or positive.",
+    "input": "I want to quit my job.",
+    "output": "Negative."
+  },
+  {
+    "instruction": "Rewrite the cover letter below in the first person.",
+    "input": "Maxwell Smart has extensive experience in the restaurant industry. He brings to the table exceptional customer service and problem-solving skills. During his time in the restaurant industry, Maxwell was a top performer and was recognized for his ability to motivate others.",
+    "output": "I, Maxwell Smart, have extensive experience in the restaurant industry. I have a strong track record of delivering excellent customer service and effective problem-solving. My peers and supervisors have commended me for my dedication to making the workplace a more positive and productive environment. Additionally, I have been a top performer and have been recognized for my ability to motivate others."
+  },
+  {
+    "instruction": "Explain why computational models can be used in analysing text.",
+    "input": "",
+    "output": "Computational models can be used in analysing text by automating complex tasks. They are able to quickly process and detect patterns in large amounts of data, enabling accurate and efficient analysis. Furthermore, computational models are not limited by human bias and can help find relationships between features that may have been previously unrecognized. In sum, computational models can be a powerful tool for analyzing text and extracting meaningful information from it."
+  },
+  {
+    "instruction": "Generate a question that could follow the response below.",
+    "input": "I saw a movie last week.",
+    "output": "What movie did you see last week?"
+  },
+  {
+    "instruction": "Summarize the article below in a maximum of 100 words.",
+    "input": "A head teacher at a high school in Birmingham has been suspended following reports of irregularities in marking examinations. Inspectors said that some grades had been inflated and process failings had contributed to the issues. The head teacher was said to have failed to ensure the security of the marking process, as well as failing to protect the school from “potential reputational damage”.",
+    "output": "A head teacher at a school in Birmingham has been suspended for irregularities in examination marking. Inspectors identified inflated grades and process failings that were the responsibility of the head teacher, including a failure to secure the marking process and protect the school from reputational damage. The school is now investigating the matter to protect the integrity of the exam process."
+  },
+  {
+    "instruction": "Create a sentence that ends with an ellipsis.",
+    "input": "",
+    "output": "I thought I could solve it on my own, but I was wrong..."
+  },
+  {
+    "instruction": "Explain the difference between HTML and CSS.",
+    "input": "",
+    "output": "HTML (HyperText Markup Language) is a markup language used to create the structure of a webpage. CSS (Cascading Style Sheets) is the language used for styling and laying out a webpage. HTML is a markup language that provides the structure for a web page and consists of HTML elements and attributes. These elements and attributes define the content and any visual element that appear on a page. CSS is used to modify and enhance the visual appearance of the page. It contains a set of values assigned to elements, attributes and properties that control the presentation of the page. These include layout, color, font, and animation. CSS allows for more flexibility when styling a page. Therefore, HTML defines the structure and content of a website while CSS is used to design it and make it look attractive."
+  },
+  {
+    "instruction": "Generate a tweet about a new product",
+    "input": "Product name: Apple iWatch",
+    "output": "Introducing the Apple iWatch - the perfect combination of style and technology! Get yours today to stay connected and stylish! #Apple #iWatch #GetYours #StayConnected #Style"
+  },
+  {
+    "instruction": "Create a new recipe for flavorful noodles",
+    "input": "",
+    "output": "Thai Coconut Noodle Stir-Fry \nIngredients:\n- 4 ounces rice noodles\n- 2 tablespoons vegetable oil\n- 1 clove garlic, minced\n- 1 red bell pepper, julienned\n- 2 cups mung bean sprouts\n- 1 teaspoon sesame oil\n- 1/2 cup coconut milk\n- 2 tablespoons fish sauce\n- 2 tablespoons soy sauce\n- 2 tablespoons honey\n- 1/4 cup scallions, chopped\n- 2 tablespoons lime juice\n\nDirections:\n\n1. Soak the rice noodles in hot water for 5 minutes, and then drain.\n2. Heat the vegetable oil in a large skillet over medium heat.\n3. Add the garlic, bell pepper, and bean sprouts and cook until the vegetables are just tender.\n4. Add the sesame oil, coconut milk, fish sauce, soy sauce, and honey.\n5. Simmer the stir-fry for 2-3 minutes and then add the noodles.\n6. Cook for 1-2 minutes until the noodles are tender.\n7. Turn off the heat and stir in the scallions and lime juice.\n8. Serve the Thai Coconut Noodle Stir-Fry hot."
+  },
+  {
+    "instruction": "Train a logistic regression model with credit data.",
+    "input": "",
+    "output": "Using Python, I trained a logistic regression model on a dataset of credit data. I preprocessed the data by imputing missing values and scaling the data. I then split the data into training and testing sets. The model was trained using the training set with an accuracy of 87%. This model was then evaluated on the test set and had an accuracy of 97%."
+  },
+  {
+    "instruction": "Name four diseases caused by cold temperatures.",
+    "input": "",
+    "output": "Four diseases caused by cold temperatures are hypothermia, frostbite, chilblains, and trench foot. Hypothermia occurs when body temperature falls below 95°F and can lead to organ failure. Frostbite is a cold induced injury where portions of the skin freeze and can result in loss of tissue or even amputation. Chilblains are itchy and painful skin rashes caused by exposure to the cold. Finally, trench foot is caused by prolonged exposure to wet and cold conditions, leading to extreme discomfort and even infection."
+  },
+  {
+    "instruction": "Translate the following sentence into Spanish.",
+    "input": "The blue sky is so beautiful.",
+    "output": "El cielo azul es tan hermoso."
+  },
+  {
+    "instruction": "Generate a function for calculating the mean of a list.",
+    "input": "",
+    "output": "def mean(lst): \n    return sum(lst) / len(lst)"
+  },
+  {
+    "instruction": "Write a blog post about how AI is transforming the healthcare industry.",
+    "input": "",
+    "output": "The healthcare industry is one of the most rapidly evolving sectors today and AI is playing a major role in transforming the industry. AI solutions are enabling hospitals, clinics and other healthcare providers to provide more precise and personalized care to their patients. AI solutions are being used to automate mundane tasks such as data collection and analysis, thus freeing up resources for other more important tasks. AI solutions are also being used to provide predictive insights on a patient’s health and detect diseases in a timely manner. AI-driven technologies have been particularly useful in diagnosing diseases such as cancer by recognizing patterns from medical images. AI-enabled robotic surgeries can also provide precise and minimally invasive procedures for patients. All in all, AI is changing the way healthcare is delivered and allowing medical practitioners to provide better and more efficient care to their patients."
+  },
+  {
+    "instruction": "Explain the role of a computer scientist in the modern world.",
+    "input": "",
+    "output": "The role of a computer scientist in the modern world is to create, maintain, and improve the technology that powers our lives. Computer scientists are at the forefront of developing new software, hardware, and networks to make our lives easier and more efficient. They create innovative algorithms and architectures to solve complex tasks and problems, optimize existing systems, and develop new systems and technologies. Computer scientists collaborate with other professionals in different fields such as life sciences, engineering, and economics to find solutions to the most challenging problems. They also develop information and communication systems to supplement and improve existing systems. By using their creativity, technical skills, and knowledge, computer scientists are making a huge impact on the world and making our lives safer and easier."
+  },
+  {
+    "instruction": "Describe the importance of renewable energy",
+    "input": "",
+    "output": "Renewable energy is becoming increasingly important in our world today as we strive to reduce our dependence on fossil fuels and shift to more sustainable sources of energy. Renewable energy sources such as wind, solar, and hydropower provide clean and reliable energy that can be used to power our homes, businesses, and vehicles. Renewable energy is also more cost-effective and efficient compared to other sources of energy. Additionally, renewable energy sources generate little to no pollution and greenhouse gas emissions, helping to reduce climate change. Renewable energy also helps to reduce our reliance on foreign countries for oil imports, thus making our nation more secure. Renewable energy is an important part of building a more sustainable future for our planet."
+  },
+  {
+    "instruction": "Generate a review for a recent movie",
+    "input": "Movie name: The Martian",
+    "output": "The Martian is an exciting, thrilling and inspiring movie that is sure to stimulate the senses. The story follows Mark Watney, a NASA Astronaut who is stranded on Mars after being presumed dead. He must use his skills in science and engineering to survive on the harsh planet and find a way back home. The Martian is a gripping movie that depicts the struggle of survival in an extreme environment, along with the hope of being rescued. The actors and special effects give a realistic feel to the story, making it even more captivating. The movie is certainly a must-watch and a great representation of human ingenuity and resilience."
+  },
+  {
+    "instruction": "Generate a function to sort a list of strings alphabetically",
+    "input": "",
+    "output": "def alphabetic_sort(lst): \n    return sorted(lst, key=str.lower)"
+  },
+  {
+    "instruction": "Write a Satire article about the coronavirus pandemic",
+    "input": "",
+    "output": "It’s been one year since the coronavirus pandemic began to affect the lives of people around the world. In the midst of massive lockdowns and social distancing, we managed to learn a few things about this virus. For starters, it is apparently very contagious, as it spread like wildfire around the globe. We have also come to realize though, that the virus only targets those who aren’t following specific protocols. Wearing a face covering, washing your hands and staying home has proven to be the ultimate remedy – the only thing standing in the way of avoiding infection. Taking preventive measures has significantly reduced the spread of the virus, and yet, people are still getting sick. Is this virus selectively choosing who to infect? It just doesn’t make sense! We may never know the answer, but at least we can attempt to stay safe and healthy."
+  },
+  {
+    "instruction": "Create a function to check whether two strings are anagrams.",
+    "input": "",
+    "output": "def is_anagram(s1, s2): \n    s1 = sorted(s1.lower()) \n    s2 = sorted(s2.lower()) \n    return s1 == s2"
+  },
+  {
+    "instruction": "Explain what is a neural network",
+    "input": "",
+    "output": "A neural network is an artificial intelligence (AI) system inspired by the structure and functioning of the human brain. It is an interconnected system of artificial neurons that use signals from datasets to make predictions or decisions. Neural networks consist of an input layer, hidden layers, and a output layer. The input layer receives data from the outside. The hidden layers process and manipulate the data. And the output layer provides predictions or decisions to the outside world. Neural networks are used in a range of tasks such as image recognition, text analysis and forecasting."
+  },
+  {
+    "instruction": "Tag the language of the following text",
+    "input": "Kareena always had a passion for art. She wanted to pursue a career in the creative field and start her own gallery one day.",
+    "output": "English"
+  },
+  {
+    "instruction": "Explain what the article is about in 1 to 2 sentences.",
+    "input": "Summary: This paper describes a novel deep learning technique called Generative Autowavelets (GAW) and examines its uses in natural language processing (NLP) tasks. GAW is a combination of an autoencoder and wavelet transformer, meaning it can both compress features in text and enable structured extraction of these features.",
+    "output": "This paper introduces Generative Autowavelets (GAW), a new deep learning technique that combines autoencoders and wavelet transforms in order to compress and extract relevant features from text for natural language processing tasks."
+  },
+  {
+    "instruction": "Find the three least common values in the given list.",
+    "input": "[5, 10, 15, 8, 9, 5, 8, 10, 9]",
+    "output": "15, 5, 8"
+  },
+  {
+    "instruction": "Write a few sentences about the current state of the given topic.",
+    "input": "Automation",
+    "output": "Automation is becoming increasingly prevalent in all aspects of life, from factories and manufacturing plants to healthcare, transportation, and home life. It is a technology which allows machines to perform tasks that would otherwise require human labour, resulting in greater efficiency and accuracy, faster production, and cost reductions. Automation also presents new opportunities in areas such as artificial intelligence, robotics and data analysis, which could help us reach new heights in terms of global productivity and innovation."
+  },
+  {
+    "instruction": "Identify the two main characters in the given passage.",
+    "input": "John and Lisa were walking through the park on a sunny day. They stopped to admire the flowers in the garden and talked about their plans for the future.",
+    "output": "John and Lisa"
+  },
+  {
+    "instruction": "Suggest topics for an informal discussion about the given country.",
+    "input": "China",
+    "output": "- The culture and customs of China \n- Recent developments in the Chinese economy \n- The Chinese education system \n- The political landscape in China \n- The comparison between traditional and modern Chinese cuisine \n- China's stance on international relations \n- China's healthcare system \n- Impacts of China's population on its economy"
+  },
+  {
+    "instruction": "Explain the implications of the given information.",
+    "input": "A recent study suggests that teenagers are spending too much time on social media.",
+    "output": "The implications of this study are clear: Teenagers are prioritizing social media over other aspects of their lives, such as socializing, studying and exercising. This could lead to negative mental health effects such as depression and anxiety, as well as physical health harms such as weight gain and social isolation. It is therefore important that parents, teachers, and other adults help teenagers to learn how to manage their online time in a healthy and balanced way."
+  },
+  {
+    "instruction": "Convert the following text into a list.",
+    "input": "The four elements of design are line, color, shape, and texture.",
+    "output": "- Line \n- Color \n- Shape\n- Texture"
+  },
+  {
+    "instruction": "Generate a sentence that contains the given words.",
+    "input": "magic, castle, king",
+    "output": "The king of the magic castle cast a spell that mesmerized everyone."
+  },
+  {
+    "instruction": "Compile a list of five items that would help someone go camping.",
+    "input": "",
+    "output": "- Tent \n- Sleeping bags \n- Flashlight \n- Cooking utensils \n- Portable stove"
+  },
+  {
+    "instruction": "Correct any spelling or grammar mistakes in the given sentence.",
+    "input": "She jogged excersies around the lake.",
+    "output": "She jogged exercises around the lake."
+  },
+  {
+    "instruction": "Find the differences between the two short texts.",
+    "input": "Text A: She was wearing a beautiful red dress.\nText B: She had on a gorgeous red dress.",
+    "output": "The difference between the two texts is that Text A uses the phrase \"wearing\" while Text B uses the phrase \"had on\"."
+  },
+  {
+    "instruction": "Rewrite the following paragraph to make it sound more formal.",
+    "input": "Moving away from home to college was really hard. It's like I had to let go of my comfort and safety and figure things out on my own.",
+    "output": "Transtioning to post-secondary education away from home was an intimidating experience. I had to relinquish familiarity and security and traverse uncharted waters alone."
+  },
+  {
+    "instruction": "Classify the following sentence as either a metaphor or hyperbole.",
+    "input": "The room was so hot it felt like a sauna.",
+    "output": "Metaphor."
+  },
+  {
+    "instruction": "Generate a creative name for a restaurant serving Mexican cuisine.",
+    "input": "",
+    "output": "Taco Town."
+  },
+  {
+    "instruction": "Suggest two marketing strategies for launching a new app.",
+    "input": "",
+    "output": "Create a buzz by launching a limited free version of the app, as well as offering special discounts to users who are loyal to the app. Utilize influencer marketing, partner with bloggers and other social media stars to create blog posts and videos about the app to increase visibility."
+  },
+  {
+    "instruction": "Edit the following sentence for grammar and style.",
+    "input": "The professor answers the questions of the student accurately.",
+    "output": "The professor answered the student's questions accurately."
+  },
+  {
+    "instruction": "Rewrite the following sentence for clarity.",
+    "input": "What makes this program different from the others?",
+    "output": "How does this program differentiate itself from the other programs?"
+  },
+  {
+    "instruction": "Change this sentence to make it a question.",
+    "input": "I think she likes sports.",
+    "output": "Do you think she likes sports?"
+  },
+  {
+    "instruction": "Explain the concept of a GPT language model.",
+    "input": "",
+    "output": "A GPT language model is a type of artificial neural network used for natural language processing. It is an autoregressive model that predicts the next word in a sequence using a series of mathematical operations. It is trained on a large corpus of text to learn the language and can then be used to generate text that is similar to the text it was trained on."
+  },
+  {
+    "instruction": "Generate a slogan for a clothing brand.",
+    "input": "",
+    "output": "Wear Your Style."
+  },
+  {
+    "instruction": "Add the article \"the\" to the following sentence.",
+    "input": "Person who is talking",
+    "output": "The person who is talking."
+  },
+  {
+    "instruction": "Generate an example that illustrates the concept of \"artificial intelligence\".",
+    "input": "",
+    "output": "A social media bot that is programmed to recognize user sentiment and automatically post relevant content based on that sentiment."
+  },
+  {
+    "instruction": "Describe the process of account creation for a website.",
+    "input": "",
+    "output": "The account creation process for a website usually consists of providing basic information such as a username, email address, and password. Then, the user will confirm their email address by clicking a link sent to their email inbox. Upon confirmation, the user's account will be activated and they will be able to log in and use the website."
+  },
+  {
+    "instruction": "Analyze the following poem and explain its meaning.",
+    "input": "'My love is like a red, red rose'",
+    "output": "The poem is a description of a romantic love that is everlasting, just like the rose that constantly blooms all year round. The rose is also a symbol of beauty and love, so the poet is conveying that the love between the two is strong, beautiful and abiding."
+  },
+  {
+    "instruction": "Suggest two ways to increase the reach of a blog.",
+    "input": "",
+    "output": "Share the blog posts on relevant social media platforms. Create ads on platforms such as Google Ads, Twitter, and Facebook in order to reach a wider audience."
+  },
+  {
+    "instruction": "Name three natural elements.",
+    "input": "",
+    "output": "Water, air, and fire."
+  },
+  {
+    "instruction": "Give a brief description of the coronavirus.",
+    "input": "",
+    "output": "Coronavirus is a type of virus that can cause illnesses ranging from the common cold to severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The virus is named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases, it can cause difficulty breathing, pneumonia, kidney failure, and even death."
+  },
+  {
+    "instruction": "Predict the monthly electricity bill of a 1000 square-foot apartment in California.",
+    "input": "",
+    "output": "The monthly electricity bill for a 1000 square-foot apartment in California is estimated to be approximatley $105 - $200, depending on usage and other factors such as insulation and energy efficient appliances."
+  },
+  {
+    "instruction": "Generate 10 rhyming words for the word \"love\".",
+    "input": "",
+    "output": "dove, above, glove, thereof, shove, thereof, thereof, thereof, thereof, thereof."
+  },
+  {
+    "instruction": "Explain the concept of binary search.",
+    "input": "",
+    "output": "Binary search is a type of search algorithm used to locate a target item in an ordered list. It works by repeatedly splitting the list in half, examining the middle item to determine whether the target is greater than, less than, or equal to it. If the target is found, the algorithm immediately returns the index of the item. If it isn't, the list is split in half, with one half discarded based on the comparison. The process is repeated until the target item is found or the list is completely searched."
+  },
+  {
+    "instruction": "Name all the elements in the periodic table with symbol C.",
+    "input": "",
+    "output": "The elements in the periodic table with symbol C are Carbon (C), Calcium (Ca), Cobalt (Co), Copper (Cu), Curium (Cm), and Copernicium (Cn)."
+  },
+  {
+    "instruction": "Compare the differences between a wooden and plastic baseball bat.",
+    "input": "",
+    "output": "Wooden baseball bats are typically heavier and more durable than plastic bats, making them better suited for long term use. Wooden bats generally produce a louder sound when they make contact with the ball, while plastic bats have a quieter sound. Wooden bats have more recoil and vibrations when they hit a ball compared to plastic bats, which have a softer feel. Additionally, wooden bats may have a larger sweet spot that makes contact with the ball more forgiving, while plastic bats are less forgiving."
+  },
+  {
+    "instruction": "Calculate the area of a right triangle with base length of 5 cm and height of 3 cm.",
+    "input": "",
+    "output": "The area of a right triangle with base length of 5 cm and a height of 3 cm is 7.5 cm^2."
+  },
+  {
+    "instruction": "Identify the continents with the most carnivores.",
+    "input": "",
+    "output": "Africa and North America are the two continents with the most carnivores. In Africa, lions, leopards, cheetahs, and hyenas are some of the most common carnivores, while in North America, gray wolves, brown bears, and mountain lions are common carnivores."
+  },
+  {
+    "instruction": "Explain the difference between a primary and secondary source.",
+    "input": "",
+    "output": "A primary source is an original source of information, such as an eyewitness account or a document written at the time of an historical event. Secondary sources are interpretations or analyses of primary sources, such as historical documents or interviews with an eyewitness. Secondary sources provide a different perspective on an event, while primary sources provide an unmediated view of the event."
+  },
+  {
+    "instruction": "Explain the purpose of hypertext markup language (HTML).",
+    "input": "",
+    "output": "Hypertext Markup Language (HTML) is a language used for creating web pages and applications. It is used to structure and present content for the web, including text, images, videos, and other forms of content. HTML is used to describe the structure of a web page, such as headings, paragraphs, lists, and links. It also describes how the content should be displayed on the web page."
+  },
+  {
+    "instruction": "Describe the differences between a substantive and procedural law.",
+    "input": "",
+    "output": "Substantive laws establish rules and regulations governing behavior and conduct, while procedural laws determine how the substantive laws will be enforced. Substantive law defines and regulates rights and duties, and typically consists of criminal, civil, and administrative laws. Procedural law focuses on how the legal system will handle disputes that arise under the substantive law by outlining the steps, rules, and procedures of civil and criminal courts."
+  },
+  {
+    "instruction": "Suggest three methods for recycling paper.",
+    "input": "",
+    "output": "Three methods for recycling paper are:\n1. Composting: breaking down paper into soil-like material. \n2. Repurposing: using paper to create new paper-based products or crafts.\n3. Energy Production: using paper to generate electricity in incinerators or gasification plants."
+  },
+  {
+    "instruction": "Describe the color pink.",
+    "input": "",
+    "output": "The color pink is a soft, light hue, typically described as a pastel or baby pink. It is generally seen as a feminine color, sweet and romantic. It is often associated with innocence and love. It is also thought to be calming and can create a sense of accountability and acceptance. Pink is often considered the color of unconditional love, compassion, and understanding. It is also said to be the color of unconditional acceptance and unconditional understanding, inviting us to appreciate all the wonders of life."
+  },
+  {
+    "instruction": "Generate a rate for a driver for a ride sharing app for $5.",
+    "input": "",
+    "output": "The rate for a driver for a ride sharing app for $5 is 4.5 stars."
+  },
+  {
+    "instruction": "Come up with a social media campaign slogan.",
+    "input": "",
+    "output": "\"Follow the Future - Bring your dreams to life with {Company Name}\""
+  },
+  {
+    "instruction": "Compose a haiku with the provided subject.",
+    "input": "Spring",
+    "output": "Fresh petals fill the air / A new season has begun / Sunlight on the trees"
+  },
+  {
+    "instruction": "Choose an appropriate introduction for the following news article.",
+    "input": "The latest report from the Environmental Protection Agency reveals that the emissions of greenhouse gasses in the state have risen by 5% from last year.",
+    "output": "The State has made little progress on curbing its emissions of greenhouse gasses, as the Environmental Protection Agency has reported that emissions have increased by 5% since last year."
+  },
+  {
+    "instruction": "Write a tweet about customer service.",
+    "input": "",
+    "output": "Customer service is key! Make sure you provide the best customer experience possible. #CustomerService #HappyCustomers"
+  },
+  {
+    "instruction": "Generate a sound effect for a car passing by.",
+    "input": "",
+    "output": "The sound effect for a car passing by would be a low, rumbling rumble in the background that steadily increases in pitch and intensity as the car approaches before fading away."
+  },
+  {
+    "instruction": "Identify the type of the following musical chord.",
+    "input": "D minor",
+    "output": "The chord is a D Minor chord."
+  },
+  {
+    "instruction": "Name a planet from our solar system.",
+    "input": "",
+    "output": "Jupiter"
+  },
+  {
+    "instruction": "Compute the sum of the following numbers.",
+    "input": "5, 10, 20",
+    "output": "35"
   }
 ]
