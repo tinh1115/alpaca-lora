@@ -45,6 +45,7 @@ def main(
             torch_dtype=torch.float16,
             device_map="auto",
         )
+        print ("Lora Weights: ", lora_weights)
         model = PeftModel.from_pretrained(
             model,
             lora_weights,
