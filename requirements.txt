@@ -6,7 +6,7 @@ black
 black[jupyter]
 datasets
 fire
-peft==0.3.0.dev0
+peft==0.3.0
 https://github.com/huggingface/transformers/archive/refs/tags/v4.28.0.zip
 sentencepiece
 gradio
